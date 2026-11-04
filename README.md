@@ -8,3 +8,4 @@ Python机器学习用户违约二分类建模项目
   - 金融个人消费贷项目流程文档.pdf  # 项目总结文档，记录思路、指标、业务结论
 - 在线预览链接（直接点击查看完整结果）
   - Python代码预览：https://nbviewer.org/github/guolijuan123/financial_loan_default_prediction/blob/main/loan_default_prediction.ipynb
+  - 项目流程文档PDF（下载查看）：[金融个人消费贷项目流程文档.pdf](https://github.com/guolijuan123/financial_loan_default_prediction/blob/main/金融个人消费贷项目流程文档.pdf)
